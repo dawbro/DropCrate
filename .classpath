@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Dawn/Downloads/mysql-connector-java-5.1.36/mysql-connector-java-5.1.36/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Dawn/Downloads/jxbrowser-5.4.2-cross-desktop-win_mac_linux/lib/jxbrowser-5.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dawn/Downloads/jxbrowser-5.4.2-cross-desktop-win_mac_linux/lib/jxbrowser-win-5.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
